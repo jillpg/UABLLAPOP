@@ -1,5 +1,5 @@
 # Descripción 🌴
-Proyecto donde utilizo **Flutter** y **Google Cloud Functions** para hacer una web donde se venderian e intercambiarian muebles entre personas de la residencia de la UAB. En esta web el reconocimiento de muebles se hace de manera automatica medianate **Vision AI**.
+Proyecto donde utilizo **Flutter** y **Google Cloud Functions** para hacer una web donde se venderían e intercambiarían muebles entre personas de la residencia de la UAB. En esta web el reconocimiento de muebles se hace de manera automática mediante **Vision AI**.
 
 # Autor 😎
 Jill Palma Garro
@@ -9,7 +9,7 @@ Jill Palma Garro
 [Github](https://github.com/JPG24)
 
 # Instalación 💻
-Se necesita un JSON para leer las imágenes y las imágenes (No las puedo subir porque ocupan mucho, si lo necesitan escríbanme y se los envió)
+Se necesita acceso a las **Cloud Functions** (Por seguridad  no puedo darles las claves y/o darles acceso)
 
 # Contacto 📩
 Si quieren contactarme, escríbanme a jpalmagarro@gmail.com
